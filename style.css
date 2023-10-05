@@ -40,7 +40,7 @@ a{
 }
 
 
-.wrapper .button:hover{
+.wrapper .button{
   width: 200px;
 }
 .wrapper .button .icon{
