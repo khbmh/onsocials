@@ -24,6 +24,7 @@ html,body{
   display: grid;
   height: 100vh;
   width: 100vw;
+  zoom: 165%;
   place-items: center;
   background: linear-gradient(315deg, #9fbcc5 0%, #fff7fd 60%);
 }
